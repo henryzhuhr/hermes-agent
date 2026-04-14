@@ -1,0 +1,8 @@
+{
+  "label": "消息平台",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "把 Hermes Agent 接到 Telegram、Discord、Slack、WhatsApp 等消息平台。"
+  }
+}
